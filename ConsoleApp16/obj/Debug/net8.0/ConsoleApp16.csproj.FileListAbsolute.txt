@@ -1,0 +1,14 @@
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.exe
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.deps.json
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.runtimeconfig.json
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.dll
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.pdb
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.AssemblyInfo.cs
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.dll
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\refint\ConsoleApp16.dll
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.pdb
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.genruntimeconfig.cache
+C:\Users\Артемий\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ref\ConsoleApp16.dll
